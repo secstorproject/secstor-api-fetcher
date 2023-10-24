@@ -15,7 +15,4 @@ Lembre-se: o `N` e `K` definidos para o teste devem coincidir com os utilizados 
 
 ## 🌟 Contribuição
 
-Contribuidor Principal: [Acacio-coding](https://github.com/Acacio-coding).
-
-
-
+👤Contribuidor Principal: [Acacio-coding](https://github.com/Acacio-coding).
