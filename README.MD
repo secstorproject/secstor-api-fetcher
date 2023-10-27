@@ -1,3 +1,8 @@
+> **Projeto:** Aplicação de algoritmos de compartilhamento de segredos e anonimização de dados para adequação de sistemas à LGPD - Edital FAPESC 27/2021.
+
+![LGPD](https://img.shields.io/badge/-LGPD-blue)
+![FAPESC](https://img.shields.io/badge/Edital-FAPESC%2027%2F2021-green)
+
 # API Fetcher Tester 🚀
 
 Este repositório foi criado com o propósito de realizar testes em APIs de compartilhamento de segredos.
